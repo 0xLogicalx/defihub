@@ -19,7 +19,7 @@
     "ethers": "5.5.0",
     "viem": "1.0.0",
     "@pancakeswap/sdk": "3.0.0",
-    "axios": "1.0.0",
+    "axios": "1.13.2",
     "ioredis": "5.0.0",
     "bull": "4.16.5",
     "node-cron": "4.2.1",
