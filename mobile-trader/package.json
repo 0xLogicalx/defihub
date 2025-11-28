@@ -19,7 +19,7 @@
     "zod": "3.18.0",
     "zustand": "4.0.0",
     "jotai": "2.0.0",
-    "recharts": "2.3.0",
+    "recharts": "3.5.1",
     "@tanstack/react-table": "8.5.0",
     "date-fns": "2.28.0",
     "bignumber.js": "9.0.0",
