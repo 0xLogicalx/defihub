@@ -17,7 +17,7 @@
     "ethers": "5.5.0",
     "@mui/material": "5.8.0",
     "@emotion/react": "11.9.0",
-    "@emotion/styled": "11.9.0",
+    "@emotion/styled": "11.14.1",
     "@mantine/core": "5.0.0",
     "@mantine/hooks": "5.0.0",
     "react-hook-form": "7.30.0",
