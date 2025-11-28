@@ -21,7 +21,7 @@
     "@pancakeswap/sdk": "3.0.0",
     "axios": "1.0.0",
     "ioredis": "5.0.0",
-    "bull": "4.5.0",
+    "bull": "4.16.5",
     "node-cron": "4.2.1",
     "date-fns": "2.25.0",
     "dayjs": "1.10.0",
