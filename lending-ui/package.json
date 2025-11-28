@@ -41,7 +41,7 @@
     "lucide-react": "0.555.0",
     "framer-motion": "6.5.0",
     "react-hot-toast": "2.2.0",
-    "clsx": "1.1.0",
+    "clsx": "2.1.1",
     "nanoid": "3.3.0",
     "use-debounce": "8.0.0"
   },
