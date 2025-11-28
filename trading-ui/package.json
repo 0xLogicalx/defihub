@@ -43,7 +43,7 @@
     "@heroicons/react": "1.0.0",
     "lucide-react": "0.80.0",
     "framer-motion": "6.5.0",
-    "react-hot-toast": "2.2.0",
+    "react-hot-toast": "2.6.0",
     "sonner": "0.3.0",
     "clsx": "1.1.0",
     "nanoid": "3.3.0",
