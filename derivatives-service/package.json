@@ -30,9 +30,9 @@
     "helmet": "6.0.0"
   },
   "devDependencies": {
-    "jest": "27.0.0",
+    "jest": "30.2.0",
     "supertest": "6.0.0",
-    "@types/jest": "27.0.0"
+    "@types/jest": "30.0.0"
   }
 }
 
