@@ -30,7 +30,7 @@
     "framer-motion": "6.5.0",
     "react-hot-toast": "2.2.0",
     "react-swipeable": "6.2.0",
-    "react-spring": "9.4.0",
+    "react-spring": "10.0.3",
     "clsx": "1.1.0",
     "nanoid": "3.3.0",
     "use-debounce": "8.0.0",
