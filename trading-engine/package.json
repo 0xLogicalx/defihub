@@ -1,0 +1,45 @@
+{
+  "name": "defihub-trading-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "DEX aggregator and trading engine for DeFiHub",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "hono": "2.0.0",
+    "@hono/node-server": "0.1.0",
+    "better-sqlite3": "7.0.0",
+    "bignumber.js": "8.0.0",
+    "decimal.js": "9.0.0",
+    "ethers": "5.5.0",
+    "viem": "1.0.0",
+    "@uniswap/sdk-core": "2.0.0",
+    "@uniswap/v3-sdk": "3.5.0",
+    "axios": "1.0.0",
+    "ws": "8.5.0",
+    "ioredis": "5.0.0",
+    "bull": "4.5.0",
+    "dotenv": "10.0.0",
+    "winston": "3.5.0",
+    "uuid": "8.3.0",
+    "lodash": "4.17.15",
+    "dayjs": "1.10.0",
+    "joi": "17.5.0",
+    "jsonwebtoken": "8.5.0",
+    "bcrypt": "5.0.0",
+    "cors": "2.7.0",
+    "helmet": "6.0.0",
+    "express-rate-limit": "6.0.0"
+  },
+  "devDependencies": {
+    "jest": "27.0.0",
+    "supertest": "6.0.0",
+    "@types/jest": "27.0.0",
+    "nodemon": "2.0.15"
+  }
+}
+

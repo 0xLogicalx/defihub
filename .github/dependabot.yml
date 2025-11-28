@@ -1,0 +1,84 @@
+version: 2
+updates:
+  # Backend Services
+  - package-ecosystem: "npm"
+    directory: "/trading-engine"
+    schedule:
+      interval: "daily"
+      time: "07:00"
+      timezone: "Europe/Warsaw"
+    open-pull-requests-limit: 10
+
+  - package-ecosystem: "npm"
+    directory: "/lending-protocol"
+    schedule:
+      interval: "daily"
+      time: "07:00"
+      timezone: "Europe/Warsaw"
+    open-pull-requests-limit: 10
+
+  - package-ecosystem: "npm"
+    directory: "/staking-pools"
+    schedule:
+      interval: "daily"
+      time: "07:00"
+      timezone: "Europe/Warsaw"
+    open-pull-requests-limit: 10
+
+  - package-ecosystem: "npm"
+    directory: "/derivatives-service"
+    schedule:
+      interval: "daily"
+      time: "07:00"
+      timezone: "Europe/Warsaw"
+    open-pull-requests-limit: 10
+
+  - package-ecosystem: "npm"
+    directory: "/analytics-service"
+    schedule:
+      interval: "daily"
+      time: "07:00"
+      timezone: "Europe/Warsaw"
+    open-pull-requests-limit: 10
+
+  - package-ecosystem: "npm"
+    directory: "/bridge-service"
+    schedule:
+      interval: "daily"
+      time: "07:00"
+      timezone: "Europe/Warsaw"
+    open-pull-requests-limit: 10
+
+  # Frontend Applications
+  - package-ecosystem: "npm"
+    directory: "/trading-ui"
+    schedule:
+      interval: "daily"
+      time: "07:00"
+      timezone: "Europe/Warsaw"
+    open-pull-requests-limit: 10
+
+  - package-ecosystem: "npm"
+    directory: "/lending-ui"
+    schedule:
+      interval: "daily"
+      time: "07:00"
+      timezone: "Europe/Warsaw"
+    open-pull-requests-limit: 10
+
+  - package-ecosystem: "npm"
+    directory: "/analytics-dashboard"
+    schedule:
+      interval: "daily"
+      time: "07:00"
+      timezone: "Europe/Warsaw"
+    open-pull-requests-limit: 10
+
+  - package-ecosystem: "npm"
+    directory: "/mobile-trader"
+    schedule:
+      interval: "daily"
+      time: "07:00"
+      timezone: "Europe/Warsaw"
+    open-pull-requests-limit: 10
+
