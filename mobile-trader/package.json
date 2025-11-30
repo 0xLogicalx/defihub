@@ -27,7 +27,7 @@
     "axios": "0.27.0",
     "react-icons": "4.4.0",
     "lucide-react": "0.80.0",
-    "framer-motion": "6.5.0",
+    "framer-motion": "12.23.24",
     "react-hot-toast": "2.2.0",
     "react-swipeable": "6.2.0",
     "react-spring": "10.0.3",
