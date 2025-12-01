@@ -35,7 +35,7 @@
     "nanoid": "3.3.0",
     "use-debounce": "8.0.0",
     "react-use": "17.3.0",
-    "qrcode": "1.4.0",
+    "qrcode": "1.5.4",
     "qrcode.react": "2.0.0",
     "react-qr-reader": "2.2.0",
     "workbox-window": "6.5.0",
