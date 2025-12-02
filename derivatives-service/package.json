@@ -27,7 +27,7 @@
     "uuid": "13.0.0",
     "lodash": "4.17.21",
     "joi": "17.5.0",
-    "helmet": "6.0.0"
+    "helmet": "8.1.0"
   },
   "devDependencies": {
     "jest": "30.2.0",
