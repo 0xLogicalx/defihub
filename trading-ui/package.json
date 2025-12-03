@@ -44,7 +44,7 @@
     "lucide-react": "0.80.0",
     "framer-motion": "6.5.0",
     "react-hot-toast": "2.2.0",
-    "sonner": "0.3.0",
+    "sonner": "2.0.7",
     "clsx": "1.1.0",
     "nanoid": "3.3.0",
     "use-debounce": "8.0.0",
