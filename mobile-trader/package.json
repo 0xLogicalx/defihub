@@ -15,7 +15,7 @@
     "viem": "0.3.0",
     "ethers": "6.15.0",
     "@chakra-ui/react": "3.30.0",
-    "react-hook-form": "7.30.0",
+    "react-hook-form": "7.67.0",
     "zod": "3.18.0",
     "zustand": "4.0.0",
     "jotai": "2.0.0",
