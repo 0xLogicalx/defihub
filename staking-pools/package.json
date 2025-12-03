@@ -16,7 +16,7 @@
     "bignumber.js": "8.0.0",
     "decimal.js": "9.0.0",
     "mathjs": "10.0.0",
-    "ethers": "5.5.0",
+    "ethers": "6.16.0",
     "viem": "1.0.0",
     "@pancakeswap/sdk": "3.0.0",
     "axios": "1.13.2",
