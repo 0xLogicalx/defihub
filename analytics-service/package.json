@@ -32,7 +32,7 @@
     "dayjs": "1.10.0",
     "moment": "2.29.0",
     "joi": "17.5.0",
-    "helmet": "6.0.0",
+    "helmet": "8.1.0",
     "coingecko-api": "1.0.8"
   },
   "devDependencies": {
