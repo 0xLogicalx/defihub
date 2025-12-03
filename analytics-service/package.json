@@ -16,7 +16,7 @@
     "pg": "8.5.0",
     "bignumber.js": "8.0.0",
     "decimal.js": "9.0.0",
-    "mathjs": "10.0.0",
+    "mathjs": "15.1.0",
     "axios": "1.0.0",
     "ws": "8.5.0",
     "ioredis": "5.0.0",
