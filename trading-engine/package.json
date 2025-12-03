@@ -19,7 +19,7 @@
     "viem": "1.0.0",
     "@uniswap/sdk-core": "2.0.0",
     "@uniswap/v3-sdk": "3.5.0",
-    "axios": "1.0.0",
+    "axios": "1.13.2",
     "ws": "8.5.0",
     "ioredis": "5.0.0",
     "bull": "4.5.0",
