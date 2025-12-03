@@ -18,7 +18,7 @@
     "ethers": "5.5.0",
     "viem": "1.0.0",
     "@uniswap/sdk-core": "2.0.0",
-    "@uniswap/v3-sdk": "3.5.0",
+    "@uniswap/v3-sdk": "3.26.0",
     "axios": "1.0.0",
     "ws": "8.5.0",
     "ioredis": "5.0.0",
