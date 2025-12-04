@@ -30,7 +30,7 @@
     "recharts": "2.3.0",
     "chart.js": "3.9.0",
     "react-chartjs-2": "4.3.0",
-    "@tanstack/react-table": "8.5.0",
+    "@tanstack/react-table": "8.21.3",
     "date-fns": "4.1.0",
     "bignumber.js": "9.0.0",
     "decimal.js": "10.3.0",
